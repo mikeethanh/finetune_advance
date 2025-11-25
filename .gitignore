@@ -1,0 +1,22 @@
+# Ignore environment variables file
+.env
+
+# Ignore downloaded model directory
+downloaded_model/
+
+# Ignore large data files
+data_pipeline/data
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+ENV/
